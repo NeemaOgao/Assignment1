@@ -10,5 +10,6 @@ Enter the first number.
 Enter the second number
 
 After keying in the two numbers, their sum and difference will be displayed as demonstrated below: 
+![python repos image](https://github.com/NeemaOgao/Assignment1/assets/146372125/453fe918-aed3-4acb-bd64-186934f9cea8)
 
-![python repos image](https://github.com/NeemaOgao/Assignment1/assets/146372125/27d99c07-fc34-429b-b7c7-2aa52f898875)
+
