@@ -3,7 +3,7 @@
 username=input("Enter your name: ")
 print("Hello "+username+"!")
 
-#Input two numbers from the user and calculate the sum
+#Input two numbers from the user and calculate the sum and the difference
 Number1=input("Enter the first number : ")
 Number2=input("Enter the second number: ")
 Sum=float(Number1)+float(Number2)
